@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VIGORDASH/static/css/main.2d6fd6cf.chunk.css",
-    "main.js": "/VIGORDASH/static/js/main.acfbef97.chunk.js",
-    "main.js.map": "/VIGORDASH/static/js/main.acfbef97.chunk.js.map",
+    "main.js": "/VIGORDASH/static/js/main.c6810687.chunk.js",
+    "main.js.map": "/VIGORDASH/static/js/main.c6810687.chunk.js.map",
     "runtime-main.js": "/VIGORDASH/static/js/runtime-main.04d8446b.js",
     "runtime-main.js.map": "/VIGORDASH/static/js/runtime-main.04d8446b.js.map",
     "static/js/2.52b67940.chunk.js": "/VIGORDASH/static/js/2.52b67940.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.04d8446b.js",
     "static/js/2.52b67940.chunk.js",
     "static/css/main.2d6fd6cf.chunk.css",
-    "static/js/main.acfbef97.chunk.js"
+    "static/js/main.c6810687.chunk.js"
   ]
 }
